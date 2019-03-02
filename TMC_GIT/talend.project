@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_o6yQsD0PEem7-cS-OC2OSA" label="TMC_GIT" description="Studio project linked to Git" language="java" technicalLabel="TMC_GIT" author="_o6yQsT0PEem7-cS-OC2OSA" productVersion="Talend Cloud Data Management Platform-7.1.1.20181026_1147" url="{&quot;location&quot;:&quot;https://github.com/GitGP/git-training-tmc&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_o6yQsD0PEem7-cS-OC2OSA" label="TMC_GIT" description="Studio project linked to Git" language="java" technicalLabel="TMC_GIT" author="_o6yQsT0PEem7-cS-OC2OSA" productVersion="Talend Cloud Data Management Platform-7.1.1.20181026_1147" url="{&quot;location&quot;:&quot;https://github.com/GitGP/git-training-tmc&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_o_JMQD0PEem7-cS-OC2OSA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_o6yQsT0PEem7-cS-OC2OSA" login="glenn.pagkalinawan@trial18171.us.talend.com" firstName="Adam" lastName="Brown" type="DQ"/>
